@@ -1,0 +1,3 @@
+import axios from 'axios';
+import type { JournalEntry, MediaItem } from '../types/journal';
+...

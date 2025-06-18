@@ -1,0 +1,3 @@
+<script setup lang="ts">
+import { Calendar, Edit3, BarChart3, Menu } from 'lucide-vue-next'
+...
