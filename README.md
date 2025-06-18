@@ -16,6 +16,12 @@ WhatDO 是一个基于 Vue 3、TypeScript 和 Vite 构建的日记与时间管�
 - 统计视图分析数据
 - 响应式设计，适配多端
 
+## 网站预览
+
+以下是网站运行效果的视频预览：
+
+<video src="https://raw.githubusercontent.com/Ibook000/whatoDO/main/raw-recording.webm" controls width="600"></video>
+
 ## 技术栈
 
 - 前端：Vue 3, TypeScript, Vite, Tailwind CSS
